@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--11--aem-eds-holjp.hlx.page/
+- Live: https://main--11--aem-eds-holjp.hlx.live/
 
 ## Installation
 
